@@ -6,5 +6,5 @@
 /EvaluacionFarmaciaAPI/bin
 /EvaluacionFarmaciaAPI/obj/Debug
 /.vs
-/**/node_modules
+/node_modules/
 *.env
